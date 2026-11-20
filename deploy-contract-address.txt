@@ -1,0 +1,8 @@
+Group Atlassian
+Members:
+Belen, Mariane - Leader
+Acosta, Rjay Luis
+Ponce, Mitzie Jamelle
+Banasan, Nicolas
+
+contract address = 0x87971CF811eA889EaD56Ae14C994281931FB55a8
